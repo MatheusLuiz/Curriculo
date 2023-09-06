@@ -1,0 +1,57 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;
+}
+
+body {
+    max-width: 1240px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px;
+    padding: 25px 50px;
+    border-radius: 15px;
+}
+
+header img {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 90px;
+    margin-left: 50px;
+}
+
+.header {
+    text-align: center;
+    display: flex;
+    
+}
+
+.data {
+    margin-left: 250px;
+    margin-top: 25px;
+}
+
+.personal-data {
+    margin-top: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+.container, .container-skills {
+    margin-top: 40px;
+}
+.data p {
+    font-size: 25px;
+}
+
+.skills {
+    display: flex;
+}
+
+.soft-skills {
+    margin-left: 80px;
+}
+
