@@ -51,6 +51,10 @@ header img {
     display: flex;
 }
 
+div .link {
+    text-decoration: none;
+}
+
 .soft-skills {
     margin-left: 80px;
 }
